@@ -30,4 +30,5 @@ public class Quotes extends Fragment {
         txt.setText(quotes);
         return view;
     }
+//    code not found for share button on actionbar using fragment
 }
